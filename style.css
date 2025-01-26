@@ -68,7 +68,7 @@
     width: 260px;
     height:30px;
     &:hover{
-        transform: scaleX(1.1) scaleY(1.5);
+        transform: scale(1.1);
         border:1px solid black;
         box-shadow: 4px 4px 4px black;
         background-color:darkgreen;
