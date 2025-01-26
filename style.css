@@ -70,7 +70,7 @@
     &:hover{
         transform: scale(1.1);
         border:1px solid black;
-        box-shadow: 4px 4px 4px black;
+        filter: drop-shadow(4px 4px 3px #333);
         background-color:darkgreen;
         transition: 250ms;
         font-weight: bold;
